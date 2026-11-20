@@ -1,2 +1,22 @@
-# homelab-kb
-This is my Homelab-Operating-Manual Repository. Where all installation of servers and applications live. All lessons learned are stored. These documents must be able to restore and or rebuild new servers from these instructions
+Homelab Knowledge Base
+This repository serves as the authoritative source of documentation for my homelab environment.
+
+Goals:
+
+Maintain installation procedures
+Maintain configuration documentation
+Maintain disaster recovery runbooks
+Maintain operating manuals
+Track lessons learned
+Provide AI-readable documentation
+Source of Truth: GitHub Repository
+
+Primary Technologies:
+
+TrueNAS SCALE
+Paperless-NGX
+Vaultwarden
+Syncthing
+Open WebUI
+AdGuard Home
+Cloudflare
